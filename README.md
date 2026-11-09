@@ -1,6 +1,6 @@
 # QQ音乐音频转MP3
 
-把 QQ 音乐解密后的普通音频（ogg / flac / m4a / wav / ape / wma / aac / opus / mp3 / aiff）批量转换为 MP3 的 Windows 桌面小工具。完全本地运行，不联网、不上传文件，转码由本机 FFmpeg 完成。
+把 QQ 音乐**后的普通音频（ogg / flac / m4a / wav / ape / wma / aac / opus / mp3 / aiff）批量转换为 MP3 的 Windows 桌面小工具。完全本地运行，不联网、不上传文件，转码由本机 FFmpeg 完成。
 
 ![界面](_ui_preview.png)
 
