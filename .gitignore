@@ -1,0 +1,31 @@
+# 打包产物
+dist/
+build/
+*.spec
+
+# 自测与临时目录
+_selftest/
+_guitest/
+_guiappdata/
+_exeappdata/
+_dragtest/
+_samename/
+_quick/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 工具缓存
+.ruff_cache/
+.pytest_cache/
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
